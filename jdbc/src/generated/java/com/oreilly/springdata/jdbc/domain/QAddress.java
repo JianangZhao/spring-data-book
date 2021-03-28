@@ -14,7 +14,9 @@ import com.mysema.query.types.Path;
  */
 @Generated("com.mysema.query.sql.codegen.MetaDataSerializer")
 public class QAddress extends com.mysema.query.sql.RelationalPathBase<QAddress> {
-
+    /**
+     * This is my first Jetbrains demo project.
+     */
     private static final long serialVersionUID = 207732776;
 
     public static final QAddress address = new QAddress("ADDRESS");
